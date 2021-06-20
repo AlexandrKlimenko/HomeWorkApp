@@ -68,5 +68,7 @@ public class HomeWorkApp {
         }
     }
 
+    public static void test(){
 
+    }
 }
